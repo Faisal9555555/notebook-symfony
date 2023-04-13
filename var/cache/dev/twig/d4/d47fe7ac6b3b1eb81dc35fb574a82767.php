@@ -367,6 +367,6 @@ class __TwigTemplate_6296553d28b1c7df65a2255239298a7f extends Template
     {% endif %}
 
 {% endblock %}
-", "@WebProfiler/Profiler/results.html.twig", "/Users/faisalbouazi/Desktop/Symfony2/notebook/vendor/symfony/web-profiler-bundle/Resources/views/Profiler/results.html.twig");
+", "@WebProfiler/Profiler/results.html.twig", "/Users/faisalbouazi/Desktop/Symfony2/notebook-symfony/vendor/symfony/web-profiler-bundle/Resources/views/Profiler/results.html.twig");
     }
 }

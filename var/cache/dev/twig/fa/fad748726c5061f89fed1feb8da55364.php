@@ -2243,6 +2243,6 @@ class __TwigTemplate_e41a6fbfb001f7ccfc513707d80034dd extends Template
         </tbody>
     </table>
 {% endmacro %}
-", "@WebProfiler/Collector/form.html.twig", "/Users/faisalbouazi/Desktop/Symfony2/notebook/vendor/symfony/web-profiler-bundle/Resources/views/Collector/form.html.twig");
+", "@WebProfiler/Collector/form.html.twig", "/Users/faisalbouazi/Desktop/Symfony2/notebook-symfony/vendor/symfony/web-profiler-bundle/Resources/views/Collector/form.html.twig");
     }
 }

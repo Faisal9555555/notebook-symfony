@@ -194,6 +194,6 @@ class __TwigTemplate_d402b493fbf0345f1cc863af05897ca9 extends Template
         {% block body %}{% endblock %}
     </body>
 </html>
-", "base.html.twig", "/Users/faisalbouazi/Desktop/Symfony2/notebook/templates/base.html.twig");
+", "base.html.twig", "/Users/faisalbouazi/Desktop/Symfony2/notebook-symfony/templates/base.html.twig");
     }
 }

@@ -135,6 +135,6 @@ class __TwigTemplate_6083a2c4d0bd383a490daaa44583b551 extends Template
         {% endfor %}
     </tbody>
 </table>
-", "@WebProfiler/Profiler/bag.html.twig", "/Users/faisalbouazi/Desktop/Symfony2/notebook/vendor/symfony/web-profiler-bundle/Resources/views/Profiler/bag.html.twig");
+", "@WebProfiler/Profiler/bag.html.twig", "/Users/faisalbouazi/Desktop/Symfony2/notebook-symfony/vendor/symfony/web-profiler-bundle/Resources/views/Profiler/bag.html.twig");
     }
 }

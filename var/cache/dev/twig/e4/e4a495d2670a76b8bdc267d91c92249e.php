@@ -171,6 +171,6 @@ class __TwigTemplate_41ee33e4721dd6257bbec0449ec092bf extends Template
         {%- endfor -%}
     </pre>
 {% endif %}
-", "@Doctrine/Collector/explain.html.twig", "/Users/faisalbouazi/Desktop/Symfony2/notebook/vendor/doctrine/doctrine-bundle/Resources/views/Collector/explain.html.twig");
+", "@Doctrine/Collector/explain.html.twig", "/Users/faisalbouazi/Desktop/Symfony2/notebook-symfony/vendor/doctrine/doctrine-bundle/Resources/views/Collector/explain.html.twig");
     }
 }
